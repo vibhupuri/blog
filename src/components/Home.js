@@ -18,7 +18,7 @@ function Home() {
           />
         </LazyLoad>
       </section>
-<p><a href="https://stackoverflow.com/users/4589611/vibhu">Stackoverflow</a><pre> | <a href="https://github.com/search?q=commenter%3Avibhupuri">Github</a></pre></p>
+<p><a href="https://stackoverflow.com/users/4589611/vibhu">Stackoverflow</a> | <a href="https://github.com/search?q=commenter%3Avibhupuri">Github</a></p>
     </Wrapper>
   );
 }
