@@ -4,6 +4,10 @@ import styled from "styled-components";
 function Second() {
   return (
     <Wrapper>
+ <div
+          dangerouslySetInnerHTML={{ __html: 
+            "<link rel='stylesheet' href='bootstrap.min.css'>" }}
+        ></div>
       <h1>Second</h1>
       <section>
         <p>
