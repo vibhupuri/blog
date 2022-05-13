@@ -5,7 +5,7 @@ import LazyLoad from "react-lazyload";
 function Home() {
   return (
     <Wrapper>
-      <div className="title">Welcome to my Blog!</div>
+      <div className='title'>Welcome to my Blog!</div>
       <section>
         <p>
           Hi, My Name is Vibhu and this is my Technology and Data Science Blog
