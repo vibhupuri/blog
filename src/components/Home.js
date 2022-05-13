@@ -14,7 +14,7 @@ function Home() {
           <img
             width="100%"
             alt="Google collab,.NET,React,Flutter,Angular,Blazor,etc."
-            src="https://raw.githubusercontent.com/vibhupuri/blog/main/header%20(1).png"
+            src="https://raw.githubusercontent.com/vibhupuri/blog/main/header.png"
           />
         </LazyLoad>
       </section>
